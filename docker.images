@@ -1,0 +1,8 @@
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+tinki/node-app      latest              cf1b08c21dd5        4 minutes ago       907MB
+tinki/cheers2019    latest              87ac2a23b17e        17 hours ago        4.01MB
+<none>              <none>              0b8aeb98d89e        17 hours ago        356MB
+node                10                  d5680e53a228        10 days ago         903MB
+nginx               latest              231d40e811cd        10 days ago         126MB
+golang              1.11-alpine         e116d2efa2ab        3 months ago        312MB
+hello-world         latest              fce289e99eb9        11 months ago       1.84kB
